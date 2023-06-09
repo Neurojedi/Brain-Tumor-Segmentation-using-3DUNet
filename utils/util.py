@@ -1,3 +1,6 @@
+# This code is based on the assignments from the Deep Learning for Medicine Course on Coursera. I have made modifications to the code to suit my specific requirements and added additional functions.
+
+
 import cv2
 import h5py
 import imageio
