@@ -1,4 +1,4 @@
-# ml libs
+# Sources: https://github.com/nabsabraham/focal-tversky-unet/tree/master
 import keras
 import keras.backend as K
 from keras.callbacks import CSVLogger
