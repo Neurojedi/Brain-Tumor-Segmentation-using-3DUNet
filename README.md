@@ -1,4 +1,4 @@
-# Brain Tumor Segmentation using 3D U-Net (Under Construction 🛠️)
+# Brain Tumor Segmentation using 3D U-Net 
 
 <img src="tumorcombined.gif"></img>
 
